@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adriano silveira
 
-- 🔭 Estou trabalhando com JavaScript e React
+- 🔭 Estou trabalhando atualmente com Front-end
 - 🌱 Estudando Dashboard
 - 💬 Contate-me no email: adrianosilveiras@hotmail.com 
 
