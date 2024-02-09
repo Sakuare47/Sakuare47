@@ -1,4 +1,4 @@
-### Olá! Eu sou o Adriano silveira
+### Olá! Eu sou o Jorge silveiira
 
 - 🔭 Estou trabalhando atualmente com Front-end
 - 🌱 Estudando Dashboard
